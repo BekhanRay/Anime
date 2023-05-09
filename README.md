@@ -27,7 +27,7 @@ source env/bin/active
 ```
 That will create a new folder env in your project directory. Next activate it with this command on Windows:
 ```
->env\Scripts\activate
+env\Scripts\activate
 ```
 Then install the project dependencies with
 
